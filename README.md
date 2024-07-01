@@ -7,7 +7,7 @@
 - 🛒 Java||Vue||Blog Sys||Cloudflare
 
 ### Blog
-![tiger-48 Tangbojin](https://www.blog.tangbojin.cn/)
+![tiger-48](https://github.com/tangbojin/tangbojin/assets/37646033/e9ba9303-a0bb-4aa3-b316-bab1077d6772) ** [Tangbojin](https://www.blog.tangbojin.cn/) **
 
 ### List of recently listened music
 
