@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**tangbojin/tangbojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I’m a software developer
+- 👨‍🌾 A manual labor in a mental work
+- 👯 A living tinker
+- 🛌 lazy cancer patient
+- 🛒 Java||Vue||Blog Sys||Cloudflare
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Blog
+```bash
+  https://www.blog.tangbojin.cn/
+```
+List of recently listened music
+```hmtl
+  <img src="https://netease-recent-profile.vercel.app/?id=126764012&size=60" alt="Netease recently played" title="Netease recently played">
+```
